@@ -4,6 +4,5 @@
         fill="#FFF131" stroke="#84259F" stroke-width="3"/>
   <!-- Текст -->
   <text x="165" y="55" font-family="Pangolin, cursive" font-size="22" font-weight="bold" fill="#84259F" text-anchor="middle">Notre</text>
-  <text x="165" y="85" font-family="Pangolin, cursive" font-size="22" font-weight="bold" fill="#84259F" text-anchor="middle">Histoire</text>
-  <text x="165" y="115" font-family="Pangolin, cursive" font-size="13" fill="#84259F" text-anchor="middle">Qui sommes-nous ?</text>
+  <text x="165" y="85" font-family="Pangolin, cursive" font-size="22" font-weight="bold" fill="#84259F" text-anchor="middle">histoire</text>
 </svg>
