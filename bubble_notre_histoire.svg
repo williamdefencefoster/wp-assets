@@ -4,5 +4,5 @@
         fill="#FFF131" stroke="#84259F" stroke-width="3"/>
   <!-- Текст -->
   <text x="165" y="70" font-family="Pangolin, cursive" font-size="60" font-weight="bold" fill="#84259F" text-anchor="middle">Notre</text>
-  <text x="165" y="110" font-family="Pangolin, cursive" font-size="60" font-weight="bold" fill="#84259F" text-anchor="middle">histoire</text>
+  <text x="165" y="120" font-family="Pangolin, cursive" font-size="60" font-weight="bold" fill="#84259F" text-anchor="middle">histoire</text>
 </svg>
