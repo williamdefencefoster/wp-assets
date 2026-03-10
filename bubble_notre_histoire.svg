@@ -3,6 +3,6 @@
   <path d="M 30 10 Q 10 10 10 30 L 10 110 Q 10 130 30 130 L 60 130 L 45 155 L 80 130 L 290 130 Q 310 130 310 110 L 310 30 Q 310 10 290 10 Z" 
         fill="#FFF131" stroke="#84259F" stroke-width="3"/>
   <!-- Текст -->
-  <text x="165" y="60" font-family="Pangolin, cursive" font-size="58" font-weight="bold" fill="#84259F" text-anchor="middle">Notre</text>
-  <text x="165" y="120" font-family="Pangolin, cursive" font-size="58" font-weight="bold" fill="#84259F" text-anchor="middle">histoire</text>
+  <text x="165" y="50" font-family="Pangolin, cursive" font-size="55" font-weight="bold" fill="#84259F" text-anchor="middle">Notre</text>
+  <text x="165" y="110" font-family="Pangolin, cursive" font-size="55" font-weight="bold" fill="#84259F" text-anchor="middle">histoire</text>
 </svg>
