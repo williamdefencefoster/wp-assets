@@ -16,10 +16,10 @@
     Z
   " fill="white" stroke="#84259F" stroke-width="3" stroke-linejoin="round"/>
   <!-- Text -->
-  <text x="160" y="65" font-family="Pangolin, cursive" font-size="30" fill="#84259F" text-anchor="middle">Tout à commencé par notre</text>
-  <text x="160" y="88" font-family="Pangolin, cursive" font-size="30" fill="#84259F" text-anchor="middle">rencontre au pied d’un escalier</text>
-  <text x="160" y="111" font-family="Pangolin, cursive" font-size="30" fill="#84259F" text-anchor="middle">en colimaçon, un détail qui</text>
-  <text x="160" y="134" font-family="Pangolin, cursive" font-size="30" fill="#84259F" text-anchor="middle">semble tout droit sorti d'un</text>
-  <text x="160" y="157" font-family="Pangolin, cursive" font-size="30" fill="#84259F" text-anchor="middle">scénario ! De cette rencontre</text>
-  <text x="160" y="180" font-family="Pangolin, cursive" font-size="30" fill="#84259F" text-anchor="middle">est née une idée folle…</text>
+  <text x="160" y="65" font-family="Pangolin, cursive" font-size="20" fill="#84259F" text-anchor="middle">Tout à commencé par notre</text>
+  <text x="160" y="88" font-family="Pangolin, cursive" font-size="20" fill="#84259F" text-anchor="middle">rencontre au pied d’un escalier</text>
+  <text x="160" y="111" font-family="Pangolin, cursive" font-size="20" fill="#84259F" text-anchor="middle">en colimaçon, un détail qui</text>
+  <text x="160" y="134" font-family="Pangolin, cursive" font-size="20" fill="#84259F" text-anchor="middle">semble tout droit sorti d'un</text>
+  <text x="160" y="157" font-family="Pangolin, cursive" font-size="20" fill="#84259F" text-anchor="middle">scénario ! De cette rencontre</text>
+  <text x="160" y="180" font-family="Pangolin, cursive" font-size="20" fill="#84259F" text-anchor="middle">est née une idée folle…</text>
 </svg>
