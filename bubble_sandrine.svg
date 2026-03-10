@@ -1,12 +1,12 @@
-<svg width="320" height="660" viewBox="0 0 320 660" xmlns="http://www.w3.org/2000/svg">
+<svg width="320" height="680" viewBox="0 0 320 670" xmlns="http://www.w3.org/2000/svg">
   <!-- Bubble -->
   <path d="
     M 30 30
     Q 10 30 10 50
     L 10 640
-    Q 10 660 30 660
-    L 290 660
-    Q 310 660 310 640
+    Q 10 670 30 670
+    L 290 670
+    Q 310 670 310 650
     L 310 50
     Q 310 30 290 30
     L 270 30
