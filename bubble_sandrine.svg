@@ -17,11 +17,11 @@
   " fill="#FFF131" stroke="#84259F" stroke-width="4" stroke-linejoin="round"/>
 
   <!-- Text -->
-  <text x="160" y="125"   font-family="Pangolin, Arial" font-size="30" font-weight="bold" fill="#84259F" text-anchor="middle">Tout à commencé</text>
-  <text x="160" y="175"  font-family="Pangolin, Arial" font-size="30" font-weight="bold" fill="#84259F" text-anchor="middle">par notre</text>
-  <text x="160" y="225"  font-family="Pangolin, Arial" font-size="30" font-weight="bold" fill="#84259F" text-anchor="middle">rencontre au pied</text>
-  <text x="160" y="275"  font-family="Pangolin, Arial" font-size="30" font-weight="bold" fill="#84259F" text-anchor="middle">d’un escalier</text>
-  <text x="160" y="325"  font-family="Pangolin, Arial" font-size="30" font-weight="bold" fill="#84259F" text-anchor="middle">colimaçon, un détail</text>
+  <text x="160" y="125"   font-family="Pangolin, cursive" font-size="30" font-weight="bold" fill="#84259F" text-anchor="middle">Tout à commencé</text>
+  <text x="160" y="175"  font-family="Pangolin, cursive" font-size="30" font-weight="bold" fill="#84259F" text-anchor="middle">par notre</text>
+  <text x="160" y="225"  font-family="Pangolin, cursive" font-size="30" font-weight="bold" fill="#84259F" text-anchor="middle">rencontre au pied</text>
+  <text x="160" y="275"  font-family="Pangolin, cursive" font-size="30" font-weight="bold" fill="#84259F" text-anchor="middle">d’un escalier</text>
+  <text x="160" y="325"  font-family="Pangolin, cursive" font-size="30" font-weight="bold" fill="#84259F" text-anchor="middle">colimaçon, un détail</text>
   <text x="160" y="375"  font-family="Pangolin, cursive" font-size="30" font-weight="bold" fill="#84259F" text-anchor="middle">qui semble tout</text>
   <text x="160" y="425"  font-family="Pangolin, cursive" font-size="30" font-weight="bold" fill="#84259F" text-anchor="middle">droit sorti d'un</text>
   <text x="160" y="475"  font-family="Pangolin, cursive" font-size="30" font-weight="bold" fill="#84259F" text-anchor="middle">scénario ! De cette</text>
