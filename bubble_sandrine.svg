@@ -14,7 +14,7 @@
     L 240 30
     L 30 30
     Z
-  " fill="#FFFEEC" stroke="#84259F" stroke-width="5" stroke-linejoin="round"/>
+  " fill="#FFF131" stroke="#84259F" stroke-width="5" stroke-linejoin="round"/>
 
   <!-- Text -->
   <text x="160" y="80"   font-family="Pangolin, cursive" font-size="30" font-weight="bold" fill="#84259F" text-anchor="middle">Tout à commencé</text>
